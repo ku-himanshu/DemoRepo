@@ -1,3 +1,3 @@
-# DemoRepo
+  # DemoRepo
 This is my first repo
-<p>Author : Himanshu Kumar</p>
+<p>Author : <bold>Himanshu Kumar</bold></p>
